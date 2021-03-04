@@ -1,4 +1,4 @@
-alert("Hey there, welcome to Ukwanda's Web App");
+alert("Hey there, welcome to Tyler's Web App");
 alert("Click on an empty box to play")
 
 var origBoard;
