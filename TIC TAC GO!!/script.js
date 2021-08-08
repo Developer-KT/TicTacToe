@@ -1,5 +1,5 @@
-alert("Hey there, welcome to Tyler's Web App");
-alert("Click on an empty box to play")
+alert('Hey there, welcome to Tyler's Web App');
+alert('Click on an empty box to play')
 
 var origBoard;
 const huPlayer = 'O';
